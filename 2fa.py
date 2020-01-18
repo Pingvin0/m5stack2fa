@@ -10,8 +10,8 @@ from m5stack import lcd
 
 sys.path.insert(1, '')
 import ntptime
-wlssid = "TP-Link_MAIN_Guest"
-wlpw = "1964370737"
+wlssid = "XXXXX"
+wlpw = "XXXXXX"
 rtc = machine.RTC()
 
 
